@@ -1,0 +1,12 @@
+{
+  "name": "laravel-echo-app",
+  "version": "1.0.0",
+  "description": "A simple Laravel Echo setup for Liara.ir",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "laravel-echo-server": "^1.6.1",
+    "sqlite3": "^4.1.1"
+  }
+}
